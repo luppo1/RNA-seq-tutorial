@@ -746,8 +746,8 @@ HISAT2 and DESeq2.
 
 ##### In case you encounter any challenges, feel free to contact me via
 
-[<img align="left" alt="adoughan | Twitter" width="50px" src="C:/Users/Albert Doughan/Downloads/twitter.svg" />](https://twitter.com/adoughan1)  
+[<img align="left" alt="adoughan | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/adoughan1)  
 <br />
-[<img align="left" alt="adoughan | LinkedIn" width="50px" src="C:/Users/Albert Doughan/Downloads/linkedIn.svg" />](https://www.linkedin.com/in/albert-doughan-4a7564aa/)  
+[<img align="left" alt="adoughan | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/albert-doughan-4a7564aa/)  
 <br />
-[<img align="left" alt="adoughan | Instagram" width="50px" src="C:/Users/Albert Doughan/Downloads/facebook.svg" />](https://web.facebook.com/alberto.doughani)
+[<img align="left" alt="adoughan | Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/alberto.doughani)
