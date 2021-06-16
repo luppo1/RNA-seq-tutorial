@@ -1,7 +1,7 @@
 RNA-seq analyses pipeline for cancer research
 ================
 **Albert Doughan**
-** KNUST**
+
 
 # **Introduction**
 
