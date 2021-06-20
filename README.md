@@ -1,6 +1,9 @@
 RNA-seq analyses pipeline for cancer research
 ================
-**Albert Doughan**
+### Author
+**Name**: Albert Doughan  
+**Institution**: Kwame Nkrumah University of Science and Technology, Ghana  
+**Email**: doughan.albert@gmail.com 
 
 
 # **Introduction**
